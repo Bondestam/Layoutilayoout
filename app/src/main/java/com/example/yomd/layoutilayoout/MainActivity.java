@@ -20,4 +20,8 @@ public class MainActivity extends AppCompatActivity {
 
         int i = 1+1;
     }
+
+    public void NyareMetod(){
+
+    }
 }
